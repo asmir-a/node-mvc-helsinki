@@ -1,0 +1,19 @@
+{
+  "name": "notes-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmir-a/node-mvc-helsinki.git"
+  },
+  "author": "Asmir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmir-a/node-mvc-helsinki/issues"
+  },
+  "homepage": "https://github.com/asmir-a/node-mvc-helsinki#readme"
+}
